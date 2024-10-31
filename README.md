@@ -8,6 +8,7 @@ This project detects faces from images and videos, then classifies them as "with
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Dataset](#dataset)
 - [Backend (back.py)](#backend-backpy)
 - [Frontend (frontend.py)](#frontend-frontendpy)
 - [Main (main.py)](#main-mainpy)
