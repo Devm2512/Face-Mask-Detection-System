@@ -25,6 +25,7 @@ The goal of this project is to detect whether individuals in a video feed or ima
 The Dataset contains 2 folders:
 - Train
 - Test
+
 Each folder further contains 2 folders.
 - With mask
 - Without mask
